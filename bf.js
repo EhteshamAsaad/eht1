@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Layout from "./page/Laot";
 import Home from "./pages/Hoe/i";
 import Blogs from "./page/Bls";
-import Contact from "./pages/Cotat";
+import Contact from "./pages/Ctat";
 import NoPage from "./pages/NoPage";
 
 export default function App() {
