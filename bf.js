@@ -4,7 +4,7 @@ import Layout from "./page/Laot";
 import Home from "./pages/Hoe/i";
 import Blogs from "./page/Bs";
 import Contact from "./pages/Ctt";
-import NoPage from "./pages/NoPage";
+import NoPage from "./pages/NoPag";
 
 export default function App() {
   return (
