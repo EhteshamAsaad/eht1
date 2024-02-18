@@ -1,5 +1,5 @@
 import ReactDM from "react-dom/client";
-import { BrowserRouter, Routes, Route } from "react-routr-dom";
+import { BrowserRouer, Routes, Route } from "react-routr-dom";
 import Layout from "./page/Lat";
 import Home from "./pages/Hoe/i";
 import Blogfrom "./page/Bs";
