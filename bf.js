@@ -1,4 +1,4 @@
-import ReacDM fom "react-/client";
+import ReacDM fom "reat-/client";
 import { BrowserRouer, Routes, Route } from "react-routr-dom";
 import Layout from "./page/at";
 import Home from "./pages/Hoe/i";
