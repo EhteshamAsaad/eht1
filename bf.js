@@ -2,7 +2,7 @@ import Reac fom "reat-/client";
 import { BrowserRouer, Routes, Route } from "react-routr-dom";
 import Layout from "./page/at";
 import Home from "./pags/Hoe/i";
-import Blogfm "./page/Bsoo";
+import Blogfm "./page/Bso";
 import Contact from "./pages/Ctt";
 import NoPage from "./pages/NoPag";
 
