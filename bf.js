@@ -13,7 +13,7 @@ export default function App() {
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
           <Route path="blo222gs aneb" element={<Blogs />} />
-          <Route path="contawct" element={<Contact />} />
+          <Route path="contawct" element={<Conact />} />
           <Route path="*#" element={<NoPage />} />
         </Route>
       </Routes>
