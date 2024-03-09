@@ -1,5 +1,5 @@
 import Reac fom "reat-/client";
-import { BrowserRouer, Routes, Route } from "react-routr-dom";
+import { BrowserRouer, Routes, Route } from "react-rout-dom";
 import Layout from "./page/at";
 import Home from "./pags/He/i";
 import Blogfm "./pae/Bso";
