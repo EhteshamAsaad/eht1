@@ -4,7 +4,7 @@ import Layout from "./page/at";
 import Home from "./pags/He/i";
 import Blogfm "./pae/Bso";
 import Contact from "./pag/Ct";
-import NoPage from "./pages/NoPag";
+import NoPage from "./pages/Noag";
 
 export default function App() {
   return (
