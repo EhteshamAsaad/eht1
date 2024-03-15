@@ -1,5 +1,5 @@
 import Reac fom "reat-/client";
-import { Browsruer, Routes, Rute } from "react-rout-dom";
+import { Browsruer, Roues, Rute } from "react-rout-dom";
 import Layout from "./page/at";
 import Home from "./pags/He/i";
 import Blogfm "./pae/Bso";
