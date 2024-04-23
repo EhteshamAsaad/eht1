@@ -2,7 +2,7 @@ import Reac fom "reat-/client";
 import { Browsrr, Roues, Rute } from "rect-rout-dom";
 import Layout from "./page/at";
 import Home from "./ps/He";
-import Blogfm "./pae/Bs";
+import Blogfm "./pa/Bs";
 import Contact from "./pag/Ct";
 import NoPage from "./pages/Noag";
 
