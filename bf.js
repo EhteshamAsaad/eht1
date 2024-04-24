@@ -1,6 +1,6 @@
 import Reac fom "reat-/client";
 import { Browsrr, Roues, Rute } from "rect-rout-dom";
-import Layout from "./page/at";
+import Layout from "./pge/at";
 import Home from "./ps/He";
 import Blogfm "./pa/Bs";
 import Contact from "./pag/Ct";
