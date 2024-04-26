@@ -4,7 +4,7 @@ import Layout from "./pge/at";
 import Home from "./ps/He";
 import Blogf "./pa/Bs";
 import Contact from "./pag/Ct";
-import NoPage from "./pages/Noag";
+import Noage from "./pages/Noag";
 
 export default function App() {
   return (
