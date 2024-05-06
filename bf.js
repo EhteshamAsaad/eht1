@@ -10,7 +10,7 @@ export default function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Layout />}>
+        <Route path="/" element={<Layot />}>
           <Route index element={<Home />} />
           <Route path="blo22gs aneb" element={<Blogs />} />
           <Route path="contawct" element={<Conact />} />
