@@ -28,3 +28,9 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#🇺🇸 M06     08/30
 
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#🇬🇧 M01     08/30
 vless://080f8b83-f4e5-4b6a-af60-0f1b7fd2b65f@uinbc.zarinplus.net:4765?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#🇬🇧 02     08/30
+
+vless://080f8b83-f4e5-4b6a-af60-0f1b7fd2b65f@macik.restaurantbomb.com:4765?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#🇫🇷 01     08/30
+vless://080f8b83-f4e5-4b6a-af60-0f1b7fd2b65f@lajdka.restaurantbomb.com:1758?encryption=none&security=reality&sni=www.yahoo.com&fp=firefox&pbk=YHpxdq3UWoSZyk_mw5hUWvSkWIN4A8bksnnxrfHrzBE&sid=b5516a2b1bdcb4f6&type=tcp&headerType=none#🇪🇸 01     08/30
+vless://080f8b83-f4e5-4b6a-af60-0f1b7fd2b65f@lajdka.restaurantbomb.com:61231?encryption=none&security=none&type=ws&path=%2F#🇪🇸 02     08/30
+vless://080f8b83-f4e5-4b6a-af60-0f1b7fd2b65f@pheio.restaurantbomb.com:4765?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#🇪🇸 03     08/30
+vless://080f8b83-f4e5-4b6a-af60-0f1b7fd2b65f@ficdak.restaurantbomb.com:4765?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#🇨🇭 01      08/30
