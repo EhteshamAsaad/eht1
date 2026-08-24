@@ -26,7 +26,6 @@ vless://cd5fc40f-8993-44a2-9735-2aa30a8bceb3@caboose.proxy.rlwy.net:28747?encryp
 vless://cd5fc40f-8993-44a2-9735-2aa30a8bceb3@yamabiko.proxy.rlwy.net:49835?encryption=none&fp=ios&pbk=Rk5RJ9UKculG8WdHwoePgJyIFCmBjFy7k-OnFjDNbWQ&security=reality&sid=f0e699f3c41621eb&sni=www.cloudflare.com&spx=%2Fcd4bf30e9c01fca&type=tcp#🇺🇸 02     08/30
 vless://080f8b83-f4e5-4b6a-af60-0f1b7fd2b65f@jkwla.restaurantbomb.com:4765?encryption=none&type=http&host=swcdn.apple.com&path=/&method=GET&packetEncoding=xudp#🇺🇸 03     08/30
 vless://080f8b83-f4e5-4b6a-af60-0f1b7fd2b65f@cookiebot.com:2087?encryption=none&type=xhttp&security=tls&sni=5adb17b93ebf7788.zarinplus.net&host=vitfk.zarinplus.net&path=/cookie-consent-solution&mode=auto#🇺🇸 04     08/30
-vless://080f8b83-f4e5-4b6a-af60-0f1b7fd2b65f@kslame.restaurantbomb.com:4765?encryption=none&type=http&host=swcdn.apple.com&path=/&method=GET&packetEncoding=xudp#🇺🇸 05     08/30
 vless://080f8b83-f4e5-4b6a-af60-0f1b7fd2b65f@skkao.restaurantbomb.com:10985?encryption=none&security=reality&sni=www.yahoo.com&fp=firefox&pbk=YHpxdq3UWoSZyk_mw5hUWvSkWIN4A8bksnnxrfHrzBE&sid=b5516a2b1bdcb4f6&packetEncoding=xudp#🇨🇦 01     08/30
 vless://080f8b83-f4e5-4b6a-af60-0f1b7fd2b65f@lwoka.restaurantbomb.com:4765?encryption=none&type=http&host=swcdn.apple.com&path=/&method=GET&packetEncoding=xudp#🇨🇦 02     08/30
 vless://080f8b83-f4e5-4b6a-af60-0f1b7fd2b65f@cookiebot.com:2087?encryption=none&type=xhttp&security=tls&sni=d446d0088d420d06.zarinplus.net&host=fkmc.zarinplus.net&path=/cookie-consent-solution&mode=auto#🇫🇮 01     08/30
