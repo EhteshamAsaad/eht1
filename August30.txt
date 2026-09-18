@@ -19,6 +19,7 @@ vless://37432bc0-2c0b-44fa-8a81-9930ecce9383@e64689df894c0109.godspa.reknaro.ir:
 vless://37432bc0-2c0b-44fa-8a81-9930ecce9383@fec3ce429b692b1a.panxz.reknaro.ir:53966?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#🇬🇧 01
 vless://37432bc0-2c0b-44fa-8a81-9930ecce9383@b9f6ba2c6b72826f.spfv3.kevmixa.ir:53966?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#🇪🇸 01
 vless://cd5fc40f-8993-44a2-9735-2aa30a8bceb3@104.20.25.138:2083?path=%2FXYZ%2FL-v-a&security=tls&encryption=none&insecure=0&host=all.darktest05.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=all.darktest05.workers.dev#🇱🇻 01
+vless://37432bc0-2c0b-44fa-8a81-9930ecce9383@047e67ba90bfbbb9.milace.revnaro.ir:53966?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#🇮🇹 01
 vless://cd5fc40f-8993-44a2-9735-2aa30a8bceb3@104.20.25.138:2083?path=%2FXYZ%2FB-g-r&security=tls&encryption=none&insecure=0&host=all.darktest05.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=all.darktest05.workers.dev#🇧🇬 01
 vless://37432bc0-2c0b-44fa-8a81-9930ecce9383@ce5340fc669c64a2.luxob.savfuma.ir:53966?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#🇱🇺 01
 vless://37432bc0-2c0b-44fa-8a81-9930ecce9383@7dcee5a31631c84e.palenters.kevmixa.ir:53966?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#🇦🇱 01
