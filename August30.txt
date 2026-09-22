@@ -14,7 +14,7 @@ vless://cad1045d-8397-489f-a509-3de7b86cf375@3144012243854605.ukgb.revnaro.ir:53
 vless://cad1045d-8397-489f-a509-3de7b86cf375@144168c3abb9e074.spfv3.kevmixa.ir:53966?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#🇪🇸 01
 vless://cad1045d-8397-489f-a509-3de7b86cf375@ad9da9e58bc1a5df.milace.revnaro.ir:53966?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#🇮🇹 01
 vless://cad1045d-8397-489f-a509-3de7b86cf375@7033e2695888fed2.luxob.savfuma.ir:53966?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#🇱🇺 01
-vless://cad1045d-8397-489f-a509-3de7b86cf375@1615c182c83591e3.palenters.kevmixa.ir:46312?security=reality&encryption=none&pbk=LiNmk0DYhmt0yuiyYE183eCsPLWZ6bFEutMBLfqfwGI&headerType=none&fp=qq&type=tcp&sni=adsterra.com&sid=01b26296a225953b#🇦🇱 01
+vless://cad1045d-8397-489f-a509-3de7b86cf375@d3a82b7f26643f2c.palenters.kevmixa.ir:53966?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#🇦🇱 01
 vless://cad1045d-8397-489f-a509-3de7b86cf375@faded97bceeff2dc.rt64s1.kevmixa.ir:53966?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#🇷🇴 01
 vless://cad1045d-8397-489f-a509-3de7b86cf375@c54ed687233662e5.kivl.reknaro.ir:53966?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#🇺🇦 01
 vless://cad1045d-8397-489f-a509-3de7b86cf375@3c7ce6e91bd1a990.m8bew1.kevmixa.ir:53966?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#🇨🇦 01
