@@ -30,3 +30,4 @@ vless://cad1045d-8397-489f-a509-3de7b86cf375@cpmt.revnaro.ir:29446?path=%2F&secu
 vless://cad1045d-8397-489f-a509-3de7b86cf375@3c7ce6e91bd1a990.m8bew1.kevmixa.ir:53966?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#🇨🇦 01
 vless://cad1045d-8397-489f-a509-3de7b86cf375@05ca4646453886b1.unjs78.kevmixa.ir:53966?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#🇺🇸 01
 vless://cad1045d-8397-489f-a509-3de7b86cf375@cpmt.revnaro.ir:54018?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#🇺🇸 02
+vless://cd5fc40f-8993-44a2-9735-2aa30a8bceb3@66.33.22.221:33705?encryption=none&security=none&type=ws&path=%2F#🇺🇸 03
