@@ -20,8 +20,6 @@ vless://cad1045d-8397-489f-a509-3de7b86cf375@cpmt.revnaro.ir:44887?path=%2F&secu
 vless://cad1045d-8397-489f-a509-3de7b86cf375@a67eaca76ef7c15a.luxob.savfuma.ir:46312?security=reality&encryption=none&pbk=LiNmk0DYhmt0yuiyYE183eCsPLWZ6bFEutMBLfqfwGI&headerType=none&fp=chrome&type=tcp&sni=adsterra.com&sid=01b26296a225953b#🇱🇺 01     09/29 تمدید؟
 vless://cad1045d-8397-489f-a509-3de7b86cf375@cpmt.revnaro.ir:36650?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#🇦🇱 01     09/29 تمدید؟
 vless://cad1045d-8397-489f-a509-3de7b86cf375@cpmt.revnaro.ir:29446?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#🇺🇦 01     09/29 تمدید؟
-vless://cd5fc40f-8993-44a2-9735-2aa30a8bceb3@66.33.22.221:33705?encryption=none&security=none&type=ws&path=%2F#🇺🇸 01     09/29 تمدید؟
-vless://cad1045d-8397-489f-a509-3de7b86cf375@eb83507032a3e8df.ny887.kevmixa.ir:46312?security=reality&encryption=none&pbk=LiNmk0DYhmt0yuiyYE183eCsPLWZ6bFEutMBLfqfwGI&headerType=none&fp=chrome&type=tcp&sni=adsterra.com&sid=01b26296a225953b#🇺🇸 02     09/29 تمدید؟
-vless://cd5fc40f-8993-44a2-9735-2aa30a8bceb3@66.33.22.249:24593?encryption=none&security=none&type=ws&path=%2F#🇺🇸 03     09/29 تمدید؟
-vless://cad1045d-8397-489f-a509-3de7b86cf375@cpmt.revnaro.ir:54018?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#🇺🇸 04     09/29 تمدید؟
-vless://cad1045d-8397-489f-a509-3de7b86cf375@cpmt.revnaro.ir:30923?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#🇺🇸 05     09/29 تمدید؟
+vless://cad1045d-8397-489f-a509-3de7b86cf375@eb83507032a3e8df.ny887.kevmixa.ir:46312?security=reality&encryption=none&pbk=LiNmk0DYhmt0yuiyYE183eCsPLWZ6bFEutMBLfqfwGI&headerType=none&fp=chrome&type=tcp&sni=adsterra.com&sid=01b26296a225953b#🇺🇸 01     09/29 تمدید؟
+vless://cad1045d-8397-489f-a509-3de7b86cf375@cpmt.revnaro.ir:54018?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#🇺🇸 02     09/29 تمدید؟
+vless://cad1045d-8397-489f-a509-3de7b86cf375@cpmt.revnaro.ir:30923?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#🇺🇸 03     09/29 تمدید؟
