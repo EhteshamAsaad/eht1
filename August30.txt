@@ -4,6 +4,7 @@ vless://cd5fc40f-8993-44a2-9735-2aa30a8bceb3@185.148.105.218:2083?path=%2FZYX%2F
 vless://cd5fc40f-8993-44a2-9735-2aa30a8bceb3@104.18.39.219:2083?path=%2FZYX%2FeyJqdW5rIjoiZHVOQW1neGtXbyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE3OC4xMDUuMjI3LjIxMCJdfQ%3D%3D%3Fed%3D2560&security=tls&encryption=none&host=khosravian7773.darkoob10.workers.dev&type=ws&insecure=0&fp=ios&allowInsecure=0&sni=khosravian7773.darkoob10.workers.dev#🇩🇪 04
 vless://cd5fc40f-8993-44a2-9735-2aa30a8bceb3@185.162.230.76:2083?path=%2FZYX%2FeyJqdW5rIjoiZHVOQW1neGtXbyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE3OC4xMDUuMjI3LjIxMCJdfQ%3D%3D%3Fed%3D2560&security=tls&encryption=none&host=khosravian7773.darkoob10.workers.dev&type=ws&insecure=0&fp=ios&allowInsecure=0&sni=khosravian7773.darkoob10.workers.dev#🇩🇪 05
 vless://cf8a956f-db41-4c4c-a0fd-5d004f3204e2@cpmt.revnaro.ir:26691?encryption=none&security=tls&sni=tl3.tavqila.ir&type=ws&host=tl3.tavqila.ir&path=/&packetEncoding=xudp#🇩🇪 06
+vless://cd5fc40f-8993-44a2-9735-2aa30a8bceb3@66.33.22.223:54942?encryption=none&security=none&type=ws&path=%2F#🇩🇪 07
 vless://cd5fc40f-8993-44a2-9735-2aa30a8bceb3@66.33.22.243:53023?path=%2F&security=&encryption=none&type=ws#🇳🇱 01
 vless://cd5fc40f-8993-44a2-9735-2aa30a8bceb3@66.33.22.241:29093?encryption=none&security=none&type=ws&path=%2F#🇳🇱 02
 vless://cd5fc40f-8993-44a2-9735-2aa30a8bceb3@66.33.22.227:51691?encryption=none&security=none&type=ws&path=%2F#🇳🇱 03
