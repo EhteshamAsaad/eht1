@@ -8,7 +8,6 @@ vless://cd5fc40f-8993-44a2-9735-2aa30a8bceb3@66.33.22.223:54942?encryption=none&
 vless://cd5fc40f-8993-44a2-9735-2aa30a8bceb3@66.33.22.241:29093?encryption=none&security=none&type=ws&path=%2F#🇳🇱 01
 vless://cd5fc40f-8993-44a2-9735-2aa30a8bceb3@66.33.22.243:53023?path=%2F&security=&encryption=none&type=ws#🇳🇱 02
 vless://cd5fc40f-8993-44a2-9735-2aa30a8bceb3@66.33.22.227:51691?encryption=none&security=none&type=ws&path=%2F#🇳🇱 03
-vless://cd5fc40f-8993-44a2-9735-2aa30a8bceb3@66.33.22.222:14238?encryption=none&security=none&type=ws&path=%2F#🇫🇷 01
 vless://cf8a956f-db41-4c4c-a0fd-5d004f3204e2@cpmt.revnaro.ir:44887?encryption=none&security=tls&sni=tl3.tavqila.ir&type=ws&host=tl3.tavqila.ir&path=/&packetEncoding=xudp#🇮🇹 01
 vless://cf8a956f-db41-4c4c-a0fd-5d004f3204e2@cpmt.revnaro.ir:54018?encryption=none&security=tls&sni=tl3.tavqila.ir&type=ws&host=tl3.tavqila.ir&path=/&packetEncoding=xudp#🇺🇸 01
 vless://cd5fc40f-8993-44a2-9735-2aa30a8bceb3@66.33.22.249:24593?path=%2F&security=&encryption=none&type=ws#🇺🇸 02
